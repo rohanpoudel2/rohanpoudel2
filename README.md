@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rohanpoudel2
 - 👀 I’m interested in creating fun projects
-- 🌱 I’m currently learning BSc(Hons) Computing
+- 🌱 I’m currently studying BSc(Hons) Computing
 - 📫 How to reach me nsrapoudel@gmail.com
 
 <!---
