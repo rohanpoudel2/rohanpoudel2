@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rohanpoudel2
 - 👀 I’m interested in creating fun projects
-- 🌱 I’m currently studying BSc(Hons) Computing
+- 🎓 BSc(Hons) Computing (2023) - Leeds Beckett University
 - 📫 How to reach me nsrapoudel@gmail.com
 - 💻 https://www.rohanpoudel.com.np
 - 🏍 🚗 🎸 🐷 🗻🇳🇵
