@@ -4,7 +4,7 @@
 - 📫 How to reach me nsrapoudel@gmail.com
 - 🏍 🚗 🎸 🐷 🗻🇳🇵
 
-**Portfolio Website: https://www.rohanpoudel.com.np**
+**My Website: https://www.rohanpoudel.com.np**
 
 <!---
 rohanpoudel2/rohanpoudel2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
