@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @rohanpoudel2
-- 👀 I’m interested in creating fun projects
 - 🎓 BSc(Hons) Computing (2023) - Leeds Beckett University
 - 📫 How to reach me nsrapoudel@gmail.com
 - 🏍 🚗 🎸 🐷 🗻🇳🇵
