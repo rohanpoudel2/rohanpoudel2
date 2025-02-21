@@ -17,5 +17,5 @@
 ## &#x1f4c8; GitHub Stats
 
 <p align="center">
-  <img width="48%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohanpoudel2&hide=java,html,css,text&show_icons=true&hide_border=true&layout=compact&theme=tokyonight&langs_count=6" alt="Rohan's Most Used Languages"/>
+  <img width="48%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohanpoudel2&hide=java,html,css,text,jupyter%20notebook&show_icons=true&hide_border=true&layout=compact&theme=tokyonight&langs_count=6" alt="Rohan's Most Used Languages"/>
 </p>
